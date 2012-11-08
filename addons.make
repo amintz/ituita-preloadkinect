@@ -1,0 +1,7 @@
+ofxBox2d
+ofxKinect
+ofxMSAInteractiveObject
+ofxOpenCv
+ofxOsc
+ofxSimpleGuiToo
+ofxXmlSettings
